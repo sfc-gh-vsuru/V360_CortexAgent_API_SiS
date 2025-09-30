@@ -2,6 +2,11 @@
 
 SiS Cortex Agent API orchestration between Cortex Analyst and Search
 
+#### Solution Walkthrough
+
+The following diagram shows Vehicle 360 Agent Architecture
+![arch](images/Auto%20Demo.png)
+
 # Vehicle360_CortexAgent
 
 Vehicle 360 Cortex Agent Demo in SiS
@@ -26,7 +31,8 @@ Vehicle 360 Cortex Agent Demo in SiS
 ### Cortex Search Setup
 
     Setup in Snowsight using the stage created above and the documents
-    (Follow Cortex Search Service setup Tutorial)
+    Follow Cortex Search Service setup Tutorial Link below
+    (https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-search/tutorials/cortex-search-tutorial-3-chat-advanced)
     Test in UI asking natural language questions
     Optionally add questions to Semantic File
 
